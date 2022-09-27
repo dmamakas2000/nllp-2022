@@ -1,4 +1,4 @@
-# Processing Long Legal Documents with Pre-trained Transformers
+# Processing Long Legal Documents with Pre-trained Transformers :balance_scale:
 
 ## About
 Pre-trained Transformers currently dominate most NLP tasks. They impose, however, limits on the maximum input length (512 sub-words in BERT), 
