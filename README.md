@@ -82,7 +82,7 @@ For any UNIX server, please follow these steps:
 
 1. Move into the desired directory representing the experiment you want to execute. For example, type `cd scripts/TFIDF-SRT-Legal-BERT`
 
-1. Export the Pythonpath using export `PYTHONPATH="${PYTHONPATH}:/your_directory_to_project/"`.
+1. Export the Pythonpath using `export PYTHONPATH="${PYTHONPATH}:/your_directory_to_project/"`.
 
 1. Make the bash script executable using `chmod`. For example, `chmod +x run_ecthr_TF_IDF_SRT_Legal_BERT.sh`.
 
